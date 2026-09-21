@@ -1,0 +1,7 @@
+The temperature is 255 degrees.
+There are 1024 bytes in a kilobyte.
+Port number: 8080
+The value is 16 and the max is 4096.
+Student ID: 24070521278
+Hexadecimal of 10 is A.
+The number 100 in hex is 64.

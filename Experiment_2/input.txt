@@ -1,0 +1,25 @@
+// This is a single line comment
+#include <stdio.h>
+
+/* This is a 
+   multi-line comment */
+
+int main() {
+    int a = 10;
+    float b = 20.5;
+    char c = 'x';
+
+    // Another single line comment
+    if (a > 5) {
+        printf("Hello World\n");
+    }
+
+    /* Another multi-line
+       comment block */
+    
+    for (int i = 0; i < a; i++) {
+        printf("%d\n", i);
+    }
+
+    return 0;
+}
