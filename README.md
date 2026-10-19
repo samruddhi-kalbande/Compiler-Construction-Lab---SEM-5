@@ -18,6 +18,9 @@
 | 5 | CO2 | Conversion of lowercase to uppercase and vice versa |
 | 6 | CO2 | Conversion of decimal to hexadecimal number in a file |
 | 7 | CO3 | Test lines ending with "COM" |
+| 8 | CO3 | Postfix Expression Evaluation |
+| 9 | CO4 | Desk calculator with error recovery |
+| 10 | CO4 | Parser for "FOR" loop statements |
 
 ---
 
